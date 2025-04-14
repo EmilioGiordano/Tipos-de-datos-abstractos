@@ -111,7 +111,7 @@ public class TodosLosTadsAplicables {
                 System.out.println("2.- Insertar al final");
                 System.out.println("3.- Eliminar elemento");
                 System.out.println("4.- Mostrar lista");
-                System.out.println("5.- ¿Lista vacía");
+                System.out.println("5.- ¿Lista vacía?");
                 System.out.println("6.- Salir");
 
                 System.out.print("Opcion? ---> ");
